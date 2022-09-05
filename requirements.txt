@@ -1,7 +1,0 @@
-voila
-voila-material
-ipywidgets
-plotly
-pandas
-numpy
-matplotlib.pyplot
